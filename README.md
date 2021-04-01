@@ -4,10 +4,10 @@
 
 ---
 
-- 🔭 I am a crazy software developer who wants to explore every stack 😊
-- 🌱 I’m currently focusing on Data structures and Algoriths 📔
-- ⚡ Fun fact: I love Problem Solving and unravelling the mysteries behind the magic of computer programs. 😂
-- :sparkles: Favorite Tech: Java, Python, React, JavaScript ... 
+-  I am a crazy software developer who wants to explore every stack 😊
+-  I’m currently focusing on Data structures and Algoriths 📔
+-  Fun fact: I love Problem Solving and unravelling the mysteries behind the magic of computer programs. 😂
+-  Favorite Tech: Java, Python, React, JavaScript ... 
 - 🎨 Portfolio: https://jaiv-portfolio.netlify.app/
 - 🛅 LinkedIn: https://www.linkedin.com/in/jaiv-shah/
 <details>
