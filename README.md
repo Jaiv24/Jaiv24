@@ -5,7 +5,7 @@
 ---
 
 -  I am a crazy software developer who wants to explore every stack 😊
--  I’m currently focusing on Data structures and Algoriths 📔
+-  I’m currently focusing on `Data structures and Algorithms` 📔
 -  Fun fact: I love Problem Solving and unravelling the mysteries behind the magic of computer programs. 😂
 -  Favorite Tech: Java, Python, React, JavaScript ... 
 - 🎨 Portfolio: https://jaiv-portfolio.netlify.app/
